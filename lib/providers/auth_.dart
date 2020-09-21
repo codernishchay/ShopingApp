@@ -42,6 +42,9 @@ class Auth_data with ChangeNotifier {
         throw HttpException(responseData['error']['message']);
       }
       _token = responseData['idToken'];
+      //Shared preferences should be used to share the token to the whole accepters 
+      //shared prederences should be used inside a setstate so that the app state refresh and token 
+      //can be accepted by others widgets; 
       _userId = responseData['localId'];
       _expiryDate = DateTime.now()
           .add(Duration(seconds: int.parse(responseData['expiresIn'])));
