@@ -6,10 +6,15 @@
 ###using Rest Api. 
 
 * __Features__: 
-*~Start-Up friendly.
-*~Cool UI. 
-*~ Protable database.
-*~ Cross-Platform 
-*~Easy to understand Code-structure. 
+   * ~ Start-Up friendly.
+   * ~ Cool UI. 
+   * ~ Protable database.
+   * ~  Cross-Platform  
+   * ~ Easy to understand Code-structure. 
 
-###Don't forget to hit the star..
+
+* __Don't forget to hit the star..__
+
+
+http://github.com - automatic!
+[GitHub](http://github.com)
