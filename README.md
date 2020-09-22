@@ -5,11 +5,11 @@
 ###ShoppingApP is a simple shop app made using flutter and the database can be deployed on any database provider
 ###using Rest Api. 
 
-## Features: 
-###~Start-Up friendly.
-###~Cool UI. 
-###~ Protable database.
-###~ Cross-Platform 
-###~Easy to understand Code-structure. 
+* __Features__: 
+*~Start-Up friendly.
+*~Cool UI. 
+*~ Protable database.
+*~ Cross-Platform 
+*~Easy to understand Code-structure. 
 
 ###Don't forget to hit the star..
