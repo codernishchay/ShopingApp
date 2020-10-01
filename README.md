@@ -2,8 +2,8 @@
 
 
 ###This application is made using Google's framework flutter. Flutter is a cross-platform framework made on top of Dart. 
-###ShoppingApP is a simple shop app made using flutter and the database can be deployed on any database provider
-###using Rest Api. 
+ShoppingApP is a simple shop app made using flutter and the database can be deployed on any database provider
+using Rest Api. 
 
 * __Features__: 
    * ~ Start-Up friendly.
@@ -14,7 +14,5 @@
 
 
 * __Don't forget to hit the star..__
+* __If something is missing please raise issue..__ 
 
-
-http://github.com - automatic!
-[GitHub](http://github.com)
